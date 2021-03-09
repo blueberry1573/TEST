@@ -8,7 +8,7 @@ This project is developed using Tuya SDK, which enables you to quickly develop b
 二、应用场景
 ----
 
-地点：智能型公寓
+地点：智能型公寓（卧室）
 
 功能：
 
@@ -16,7 +16,11 @@ This project is developed using Tuya SDK, which enables you to quickly develop b
 
 2）可在app上设置定时开关灯，以达到控制良好的作息时间，养成良好的生物钟；
 
-3）可用app控制灯光的冷暖色系与亮度，以满足人们的各种情况需求，进一步带来舒适生活。
+3）可用app控制灯光的冷暖色系与亮度，以满足人们的各种情况需求，进一步带来舒适生活；
+
+4）app上添加离家模式，当屋主离家时，可一键开启模拟在家场景，提高安全防范；
+
+5）采用呼吸灯式倒计时开关灯，渐明渐暗延时模式，让屋主有个心理准备，减少眼睛的不适应。
 
 三、开发计划
 ----
