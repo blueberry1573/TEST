@@ -24,10 +24,10 @@ This project is developed using Tuya SDK, which enables you to quickly develop b
 
 三、开发计划
 ----
-5月30日前完成
+4月15日前完成
 
-1）3月15日前准备物料
+1）3月18日前准备物料
 
-2）3月17日-4月30日嵌入式开发、云开发
+2）3月18日-4月1日嵌入式开发、云开发
 
-3）5月15日前整体调试
+3）4月15日前整体调试
